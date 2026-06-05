@@ -40,5 +40,5 @@ To provide a centralized dashboard for monitoring renewable energy generation an
 
 ## Author
 
-Durga
+Angala Eswari
 Aspiring Data Analyst | Power BI Developer
